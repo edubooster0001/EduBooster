@@ -1,2 +1,2 @@
-# EduBooster
+# EduBooster 🚀
 Learning Website
