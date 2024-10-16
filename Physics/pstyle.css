@@ -5,6 +5,7 @@ body{
 
 h1{
     color: wheat;
+    align-items: center;
 }
 
 footer {
@@ -16,17 +17,17 @@ footer {
     opacity: .9;
     line-height: 12px;
     color: #dbdbdb;
+    align-items: center;
 }
-
-hr{
-    background-color: black;
+h4{
+    color: rgb(223, 24, 64);
 }
 
 .center{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: fit-content;
+    width: auto;
 }
 /* .nonlocalized-footer {
     padding-bottom: 25%;
