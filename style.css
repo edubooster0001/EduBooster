@@ -33,7 +33,6 @@ header {
 *{
     margin: 0;
     padding: 0;
-    font-family: cursive;
     box-sizing: border-box;
 }
 
@@ -51,6 +50,7 @@ header {
     height: 200px;
     margin: 20px;
     background: linear-gradient(blue,black, blue);
+    font-family: cursive;
     font-size: 25px;
     text-align: center;
     color: whitesmoke;
@@ -65,7 +65,6 @@ footer {
     font-family: "National 2 Regular";
     font-size: 12px;
     text-align: center;
-    justify-content: space-evenly;
     opacity: .9;
     line-height: 12px;
     color: #dbdbdb;
