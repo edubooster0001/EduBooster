@@ -1,9 +1,13 @@
 body{
     text-align: center;
     background-color: black;
+    width: fit-content;
+    margin: 0px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-h1{
+h1, a {
     color: wheat;
     align-items: center;
 }
@@ -17,18 +21,20 @@ footer {
     opacity: .9;
     line-height: 12px;
     color: #dbdbdb;
-    align-items: center;
 }
 
 h4{
     color: rgb(223, 24, 64);
 }
 
+img{
+    width: 550px;
+}
+
 .center{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: auto;
 }
 /* .nonlocalized-footer {
     padding-bottom: 25%;
