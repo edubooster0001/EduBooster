@@ -13,12 +13,48 @@ h1, a {
 }
 
 img{
-    width: 550px;
+    width: 700px;
+}
+
+@media (max-width:600px) {
+    .contentImage{
+        width: 550px;
+    }
+}
+
+@media (max-width:550px) {
+    .contentImage{
+        width: 500px;
+    }
+}
+
+@media (max-width:500px) {
+    .contentImage{
+        width: 450px;
+    }
+}
+
+@media (max-width:450px) {
+    .contentImage{
+        width: 400px;
+    }
 }
 
 @media (max-width:400px) {
     .contentImage{
+        width: 350px;
+    }
+}
+
+@media (max-width:350px) {
+    .contentImage{
         width: 300px;
+    }
+}
+
+@media (max-width:300px) {
+    .contentImage{
+        width: 250px;
     }
 }
 
